@@ -1,2 +1,2 @@
 # Git
-this is used to study git and test github
+This is used to study git and test github
